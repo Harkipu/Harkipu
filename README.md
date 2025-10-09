@@ -27,7 +27,7 @@
       </th>
     </tr>
     <tr>
-      <th width="50%" height="400" valign="top"><h1>QuickJam (WIP)</h1>
+      <th width="50%" height="400" valign="top"><h1>The Forgotten Souls (WIP)</h1>
         <img width="100%" src="" />
         <p>Description</p>
         <h2></h2>
