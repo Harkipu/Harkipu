@@ -38,8 +38,9 @@
       <th width="50%" height="400" valign="top"><h1>UnRedRun</h1>
         <img width="100%" src="" />
         <p>Description</p>
+        <p><a href="https://github.com/Harkipu/UnRedRun">Repository Page</a></p>
         <h2></h2>
-        <p></p>
+        <p>Clifftoven Wicaksono - Game Programmer</p>
         <p></p>
       </th>
     </tr>
