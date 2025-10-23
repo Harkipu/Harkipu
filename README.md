@@ -70,6 +70,7 @@ I really like to test out different games and also interested in game testing an
 
 
 # Contact
- 
+ Email: thisisharkip650@gmail.com <br>
+ linkedin: <a href="https://www.linkedin.com/in/clifftoven-wicaksono-637777387/">Clifftoven</a> <br>
 
 ---
