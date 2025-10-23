@@ -20,7 +20,7 @@
       </th>
       <th width="50%" height="400" valign="top"><h1>TDPlane</h1>
         <img width="100%" src="https://github.com/Harkipu/TDPlane/blob/main/Assets/Asset/TDPlane%20Placeholder.png" />
-        <p>A 2D simple plane shooter survival game. Control the plane to dodge enemy attack, attack back at enemy, and collect drops from enemy. Made in 9 days.</p>
+        <p>A 2D simple plane shooter survival game. A little bit like a bullet hell game. Made in 9 days.</p>
         <p><a href="https://github.com/Harkipu/TDPlane">Repository Page</a></p>
         <h2></h2>
         <p>Clifftoven Wicaksono - Game Programmer</p>
