@@ -41,6 +41,7 @@ I really like to test out different games and also interested in game testing an
         <img width="100%" src="" />
         <p>Game similar like that google dino run. Possibly the first somewhat decent game I made. Made in 2-3 days</p>
         <p><a href="https://github.com/Harkipu/UnRedRun">Repository Page</a></p>
+        <p><a href="https://harkip.itch.io/unredrun">Itch.io Page</a></p>
         <h2></h2>
         <p>Clifftoven Wicaksono - Game Programmer</p>
         <p></p>
