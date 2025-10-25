@@ -1,7 +1,7 @@
 ## Hi , I'm Clifftoven 👋
 
 ---
-I'm a game programmer from Binus University, mainly using Unity but also learning Godot. <br>
+I'm a game programmer from Indonesia, studying in Binus University, mainly using Unity but also learning Godot. <br>
 Aside from being a game programmer I have also taken on various other roles, such as game designer. <br>
 I really like to test out different games and also interested in game testing and quality assurance in game like finding bugs, glitch ,etc. <br>
 # Checkout my project/games! (Gifs take some time to load)
