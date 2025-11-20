@@ -27,7 +27,7 @@ I really like to test out different games and also interested in game testing an
         <p>A 2D Roguelite game where player battle enemies with multiple skills and rng. Made in 10 days.</p>
         <p><a href="https://github.com/Harkipu/TheForgottensSouls">Repository Page</a></p>
         <p><a href="https://harkip.itch.io/the-forgottens-souls">Itch.io Page</a></p>
-        <h2></h2>
+        <h2>Kan Studio</h2>
         <p>Nelvin Anderson - Game Designer</p>
         <p>Felix Olivier Stefano - 2D Game Artist</p>
         <p>Pieter Nathanael Setiawan - Game Programmer</p>
