@@ -11,7 +11,7 @@ I really like to test out different games and also interested in game testing an
 <table width="100%">
     <tr>
       <th width="50%" height="400" valign="top"><h1>Haunting Echoes</h1>
-        <img width="100%" src="https://github.com/Harkipu/GifandStuff/blob/main/Haunting%20Echoes.gif">
+        <img width="100%" src="https://github.com/Harkipu/GifandStuff/blob/main/MiniHauntingEchoes.gif">
         <p>A horror game where you need to survive from ghost hunting you by finding a way out. Made in 5-6 days</p>
         <p><a href="https://github.com/Harkipu/Haunting_Echoes">Repository Page</a></p>
         <p><a href="https://lzyu5.itch.io/haunting-echoes">Itch.io Page</a></p>
@@ -23,7 +23,7 @@ I really like to test out different games and also interested in game testing an
         <p>Clifftoven Wicaksono - Game Programmer</p>
       </th>
       <th width="50%" height="400" valign="top"><h1>The Forgotten Souls</h1>
-        <img width="100%" src="">
+        <img width="100%" src="https://github.com/Harkipu/GifandStuff/blob/main/MiniForgotten.gif">
         <p>A 2D Roguelite game where player battle enemies with multiple skills and rng. Made in 10 days.</p>
         <p><a href="https://github.com/Harkipu/TheForgottensSouls">Repository Page</a></p>
         <p><a href="https://harkip.itch.io/the-forgottens-souls">Itch.io Page</a></p>
@@ -36,14 +36,14 @@ I really like to test out different games and also interested in game testing an
     </tr>
     <tr>
       <th width="50%" height="400" valign="top"><h1>TDPlane</h1>
-        <img width="100%" src="https://github.com/Harkipu/GifandStuff/blob/main/TDPlaneVid.gif">
+        <img width="100%" src="https://github.com/Harkipu/GifandStuff/blob/main/MiniTDPlane.gif">
         <p>A 2D simple plane shooter survival game. A little bit like a bullet hell game. Made in 9 days.</p>
         <p><a href="https://github.com/Harkipu/TDPlane">Repository Page</a></p>
         <h2></h2>
         <p>Clifftoven Wicaksono - Game Programmer</p>
       </th>
       <th width="50%" height="400" valign="top"><h1>UnRedRun</h1>
-        <img width="100%" src="https://github.com/Harkipu/GifandStuff/blob/main/UnredrunVid.gif">
+        <img width="100%" src="https://github.com/Harkipu/GifandStuff/blob/main/My%20Video.gif">
         <p>Game similar like that google dino run. Possibly the first somewhat decent game I made. Made in 2-3 days</p>
         <p><a href="https://github.com/Harkipu/UnRedRun">Repository Page</a></p>
         <p><a href="https://harkip.itch.io/unredrun">Itch.io Page</a></p>
